@@ -1,7 +1,12 @@
 # FriendlyEats (Web)
 
-## Introduction
+## Tutorial
 
+Following the tutorial. Further information is provided below from the original tutorial documentation.
+
+Feel free to use this repository, but keep in mind this repo represents a completed tutorial.
+
+## More Information
 FriendlyEats is a restaurant recommendation app built on Cloud Firestore.
 For more information about Firestore visit [the docs][firestore-docs].
 
